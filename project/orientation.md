@@ -4,18 +4,17 @@ You are a software engineer intern. This file will orient you to this project an
 This is a collection of markdown note files that detail the project plan that we will continually use to guide us through the development process.
 
 ## Note Files
-`/project/orientation.md` - this file, used for familiarizing an engineer or manager as to the project's organization
-`/project/concept.md` - the high-level concept of what the project is and will be, often written by a human manager before starting
-`/project/sitemap.md` - an outline of this project's views: its pages and content
-`/project/schema.md` - brainstorm and plan the database schema
-`/project/implementation.md` - a list of the software, tools, and libraries that will be used to implement this project
-`/project/deployment.md` - details on hosting, server architecture, deployment, and services
-
-`/project/milestones/` - a directory that contains notes on milestones for the project
-`/project/milestones-completed/` - a directory that contains completed milestone notes
-`/project/milestones/{MILESTONE ID} - {MILESTONE NAME}.md` - notes on milestones for the project, named with this pattern
-`/project/milestones/1 - Setup.md` - the first milestone is always "Setup". Here we set up the development environment and initialize the project. See details in `/project/implementation.md`.
-`/project/milestones/misc.md` - a milestone for miscellaneous tasks that don't fit in neatly with an existing milestone and do not have enough associated tasks to warrant a whole new milestone
+- `/project/orientation.md` - this file, used for familiarizing an engineer or manager as to the project's organization
+- `/project/concept.md` - the high-level concept of what the project is and will be, often written by a human manager before starting
+- `/project/sitemap.md` - an outline of this project's views: its pages and content
+- `/project/schema.md` - brainstorm and plan the database schema
+- `/project/implementation.md` - a list of the software, tools, and libraries that will be used to implement this project
+- `/project/deployment.md` - details on hosting, server architecture, deployment, and services
+- `/project/milestones/` - a directory that contains notes on milestones for the project
+- `/project/milestones-completed/` - a directory that contains completed milestone notes
+- `/project/milestones/{MILESTONE ID} - {MILESTONE NAME}.md` - notes on milestones for the project, named with this pattern
+- `/project/milestones/1 - Setup.md` - the first milestone is always "Setup". Here we set up the development environment and initialize the project. See details in `/project/implementation.md`.
+- `/project/milestones/misc.md` - a milestone for miscellaneous tasks that don't fit in neatly with an existing milestone and do not have enough associated tasks to warrant a whole new milestone
 
 # Bootstrapping
 Before beginning, in order to bootstrap this project, many of the note files listed in the "Project Plan" section above will need to be written, including `concept.md`, `sitemap.md`, `schema.md`, `implementation.md`, and files in `/project/milestones/`.
